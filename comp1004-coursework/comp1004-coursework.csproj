@@ -5,8 +5,4 @@
     <RootNamespace>comp1004_coursework</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\img\" />
-  </ItemGroup>
-
 </Project>
