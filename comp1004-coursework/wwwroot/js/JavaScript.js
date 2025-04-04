@@ -9,7 +9,7 @@ $(document).ready(function () {
         $('#page-content-wrapper').load('game.html');
     })
 
-    $('#data').click(function () {
+    $('?data').click(function () {
         $('#page-content-wrapper').load('data.html');
     })
 });
